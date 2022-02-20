@@ -33,7 +33,7 @@ fill ~-6 ~27 ~-6 ~11 ~28 ~11 air
 # Open top of tube
 fill ~2 ~24 ~2 ~3 ~24 ~3 air
 # Decorative Side panel(s)
-fill ~-7 ~24 ~-8 ~12 ~24 ~-8 red_mushroom_block 14
+fill ~-7 ~24 ~-8 ~12 ~29 ~-8 red_mushroom_block 14
 fill ~-8 ~24 ~-7 ~-8 ~29 ~12 red_mushroom_block 14
 fill ~-7 ~24 ~13 ~12 ~29 ~13 red_mushroom_block 14
 fill ~13 ~24 ~12 ~13 ~29 ~-7 red_mushroom_block 14
@@ -65,5 +65,5 @@ setblock ~3 ~1 ~4 stone_slab4 9
 # Remove base blocks
 fill ~2 ~ ~1 ~3 ~ ~1 air
 fill ~1 ~ ~2 ~1 ~ ~3 air
-fill ~4 ~ ~2 4 ~ ~3 air
-fill ~2 ~ ~4 3 ~ ~4 air
+fill ~4 ~ ~2 ~4 ~ ~3 air
+fill ~2 ~ ~4 ~3 ~ ~4 air
