@@ -1,0 +1,7 @@
+{
+    "format_version": [1, 18, 0],
+    "msb:mushroom_tower": {
+        "sound" : "grass",
+        "textures" : "tower_mushroom"
+    }
+}

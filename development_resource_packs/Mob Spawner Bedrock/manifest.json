@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Mob Spawner Bedrock",
+        "description": "Placeable mob spawning towers",
+        "uuid": "a2a83f12-9cff-4815-9a9f-732d506d8fd9",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 18, 0]
+    },
+    "metadata": {
+        "authors": [
+            "Kirbycope"
+        ]
+    },
+    "modules": [
+        {
+            "description": "Mob Spawner Bedrock resource pack",
+            "type": "resources",
+            "uuid": "6cf42e88-4969-477f-90a0-55c159a7113c",
+            "version": [1, 0, 0]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "format_version": "1.18.0",
+    "minecraft:block": {
+        "description": {
+            "identifier": "msb:tower_mushroom",
+            "is_experimental": false,
+            "register_to_creative_menu": true
+        }
+    }
+}
