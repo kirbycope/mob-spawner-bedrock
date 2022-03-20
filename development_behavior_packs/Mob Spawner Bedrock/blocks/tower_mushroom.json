@@ -5,6 +5,20 @@
             "identifier": "msb:tower_mushroom",
             "is_experimental": false,
             "register_to_creative_menu": true
+        },
+        "components": {
+            "minecraft:on_placed": {
+                "event": "tower_mushroom_placed"
+            }
+        },
+        "events": {
+            "tower_mushroom_placed": {
+                "run_command": {
+                    "command": [
+                        "function place-mushroom-tower"
+                    ]
+                }
+            }
         }
     }
 }
