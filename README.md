@@ -1,5 +1,5 @@
 # mob-spawner-bedrock
-![Tower-Mushroom](/tower-mushroom.png)
+[![Tower-Mushroom](/tower-mushroom.png)](https://www.youtube.com/watch?v=Imk1t0bxYyA)
 
 ## Installation
 1. Download and run the [.mcaddon](https://github.com/kirbycope/mob-spawner-bedrock/blob/main/Mob%20Spawner%20Bedrock.mcaddon) file
