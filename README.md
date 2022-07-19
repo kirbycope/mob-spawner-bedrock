@@ -11,3 +11,8 @@
 1. Activate the behavior pack and resource pack for your world
    - The world must have Holiday Creator Experiments enabled
       - World Settings > Experiments > Holiday Creator Features
+      
+## Using the Add-on
+*Note: Item(s)/Block(s) are available in the Creative menu
+1. `give @p msb:tower_mushroom` 
+   - When placed it will build a mob spawning tower using Red Mushrooms
