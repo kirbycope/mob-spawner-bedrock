@@ -1,3 +1,5 @@
+# Remove Tower Mushroom
+fill ~ ~ ~ ~ ~ ~ air
 # Tower tube
 fill ~1 ~ ~1 ~4 ~24 ~4 brown_mushroom_block 10 hollow
 # Bottom floor
