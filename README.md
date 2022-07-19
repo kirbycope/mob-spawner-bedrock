@@ -1,7 +1,11 @@
 # mob-spawner-bedrock
-[![Tower-Mushroom](/tower-mushroom.png)](https://www.youtube.com/watch?v=Imk1t0bxYyA)
+[![Tower-Mushroom](/mob-spawner-bedrock.png)](https://www.youtube.com/watch?v=Imk1t0bxYyA)
 
-## Installation
+## Packaging the Add-on
+1. Open a new terminal in Visual Studio Code
+1. Run `.\pack.ps1`
+
+## Installing the Add-on
 1. Download and run the [.mcaddon](https://github.com/kirbycope/mob-spawner-bedrock/blob/main/Mob%20Spawner%20Bedrock.mcaddon) file
 1. Start a new game and enable the Holiday Creator (experimental) feature
 1. Select the Resource pack and it should load the dependant datapack
