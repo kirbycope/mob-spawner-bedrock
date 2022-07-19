@@ -7,5 +7,7 @@
 
 ## Installing the Add-on
 1. Download and run the [.mcaddon](https://github.com/kirbycope/mob-spawner-bedrock/blob/main/Mob%20Spawner%20Bedrock.mcaddon) file
-1. Start a new game and enable the Holiday Creator (experimental) feature
-1. Select the Resource pack and it should load the dependant datapack
+1. Double-click to install using Minecraft
+1. Activate the behavior pack and resource pack for your world
+   - The world must have Holiday Creator Experiments enabled
+      - World Settings > Experiments > Holiday Creator Features
