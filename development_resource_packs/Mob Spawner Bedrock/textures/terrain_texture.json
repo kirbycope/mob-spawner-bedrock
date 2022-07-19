@@ -4,8 +4,11 @@
     "padding": 8,
     "num_mip_levels": 4,
     "texture_data": {
-        "tower_mushroom": {
-            "textures": "textures/blocks/tower_mushroom"
+        "mushroom_block_skin_red": {
+            "textures": "textures/blocks/mushroom_block_skin_red"
+        },
+        "mushroom_block_inside": {
+            "textures": "textures/blocks/mushroom_block_inside"
         }
     }
 }
