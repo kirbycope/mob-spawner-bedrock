@@ -1,6 +1,6 @@
 #Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
-$addonName = "Mob Spawner Bedrock";
+$addonName = "mob-spawner-bedrock";
 $gameDirectory = "$env:LOCALAPPDATA\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang";
 $behaviorPacktory = "$gameDirectory\development_behavior_packs";
 $resourcePacktory = "$gameDirectory\development_resource_packs";

@@ -2,7 +2,7 @@
 [![Tower-Mushroom](/mob-spawner-bedrock.png)](https://www.youtube.com/watch?v=Imk1t0bxYyA)
 
 ## Installing the Add-on
-1. Download and run the [.mcaddon](https://github.com/kirbycope/mob-spawner-bedrock/raw/main/Mob%20Spawner%20Bedrock.mcaddon) file
+1. Download and run the [.mcaddon](https://github.com/kirbycope/mob-spawner-bedrock/raw/main/mob-spawner-bedrock.mcaddon) file
 1. Double-click to install using Minecraft
 1. Activate the behavior pack and resource pack for your world
    - The world must have Holiday Creator Experiments enabled
