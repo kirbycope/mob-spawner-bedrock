@@ -1,5 +1,7 @@
-# mob-spawner-bedrock
 [![Tower-Mushroom](/mob-spawner-bedrock.png)](https://www.youtube.com/watch?v=Imk1t0bxYyA)
+
+# mob-spawner-bedrock
+Create mob spawning towers by placing a custom block.
 
 ## Installing the Add-on
 1. Download and run the [.mcaddon](https://github.com/kirbycope/mob-spawner-bedrock/raw/main/mob-spawner-bedrock.mcaddon) file
