@@ -18,3 +18,8 @@ Create mob spawning towers by placing a custom block.
 ## Packaging the Add-on
 1. Open a new terminal in Visual Studio Code
 1. Run `.\pack.ps1`
+
+## Releasing
+Pushing a tag that starts with `v` (for example `git tag v1.0.0 && git push origin v1.0.0`) runs the Release workflow in `.github/workflows/release.yml`, which builds the add-on and attaches `mob-spawner-bedrock.mcaddon` to a GitHub Release.
+
+To build it locally, run `python tools/build_addon.py`. It writes `build/mob-spawner-bedrock.mcaddon`, which git ignores, and leaves the committed `mob-spawner-bedrock.mcaddon` as it is.
